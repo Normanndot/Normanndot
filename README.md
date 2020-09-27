@@ -42,7 +42,7 @@
   2. 🎉 Swift - Data types - [Advanced](https://github.com/Normanndot/Swift-data-types)
   3. 🎉 Swift - Public protocols & its usage - [Public In-built Protocols](https://github.com/Normanndot/swift-public-protocols)  
   4. 🎉 MVVM-C Architecture [MVVM-C](https://github.com/Normanndot/MVVM-C)
-  5. 🎉 CLEAN Architecture [CLEAN] (https://github.com/Normanndot/git-trends)
+  5. 🎉 CLEAN Architecture [CLEAN](https://github.com/Normanndot/git-trends)
 <!--END_SECTION:activity-->
 
 </details>
