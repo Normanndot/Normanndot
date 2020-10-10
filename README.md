@@ -35,11 +35,11 @@
 ---
 My Recent Git Activities: -
 
-  1. 🎉 SwiftUI + CLEAN [Architecture](https://github.com/Normanndot/SwiftUICLEAN/tree/master/SwiftUICLEAN)
-  2. 🎉 iOS - Design Patterns [Patterns](https://github.com/Normanndot/iOS-design-patterns/tree/master/iOS-design-patterns.playground/Pages)
-  3. 🎉 Swift - Data types - [Advanced](https://github.com/Normanndot/Swift-data-types)
-  4. 🎉 Swift - Public protocols & its usage - [Public In-built Protocols](https://github.com/Normanndot/swift-public-protocols)  
-  5. 🎉 MVVM-C [Architecture](https://github.com/Normanndot/MVVM-C)
+  🎉 SwiftUI + CLEAN [Architecture](https://github.com/Normanndot/SwiftUICLEAN/tree/master/SwiftUICLEAN)
+  🎉 iOS - Design Patterns [Patterns](https://github.com/Normanndot/iOS-design-patterns/tree/master/iOS-design-patterns.playground/Pages)
+  🎉 Swift - Data types - [Advanced](https://github.com/Normanndot/Swift-data-types)
+  🎉 Swift - Public protocols & its usage - [Public In-built Protocols](https://github.com/Normanndot/swift-public-protocols)  
+  🎉 MVVM-C [Architecture](https://github.com/Normanndot/MVVM-C)
 
 
 
