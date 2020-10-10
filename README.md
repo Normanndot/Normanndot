@@ -33,19 +33,14 @@
 <br />
 
 ---
+My Recent Git Activities: -
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-  1. 🎉 iOS - Design Patterns [Patterns](https://github.com/Normanndot/iOS-design-patterns/tree/master/iOS-design-patterns.playground/Pages)
-  2. 🎉 Swift - Data types - [Advanced](https://github.com/Normanndot/Swift-data-types)
-  3. 🎉 Swift - Public protocols & its usage - [Public In-built Protocols](https://github.com/Normanndot/swift-public-protocols)  
-  4. 🎉 MVVM-C Architecture [MVVM-C](https://github.com/Normanndot/MVVM-C)
-  5. 🎉 CLEAN Architecture [CLEAN](https://github.com/Normanndot/git-trends)
-<!--END_SECTION:activity-->
+  1. 🎉 SwiftUI + CLEAN [Architecture](https://github.com/Normanndot/SwiftUICLEAN/tree/master/SwiftUICLEAN)
+  2. 🎉 iOS - Design Patterns [Patterns](https://github.com/Normanndot/iOS-design-patterns/tree/master/iOS-design-patterns.playground/Pages)
+  3. 🎉 Swift - Data types - [Advanced](https://github.com/Normanndot/Swift-data-types)
+  4. 🎉 Swift - Public protocols & its usage - [Public In-built Protocols](https://github.com/Normanndot/swift-public-protocols)  
+  5. 🎉 MVVM-C [Architecture](https://github.com/Normanndot/MVVM-C)
 
-</details>
 
 
 [website]: https://apps.apple.com/gb/app/the-times-the-sunday-times/id436792321
