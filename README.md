@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [The Times & The Sunday Times][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other iOS Engineers world wide.
-- 🥅 2020 Goals: Advanced DS & Algo
+- 🥅 2023 Goals: Better Programmer
 - ⚡ Fun fact: Public speaking = biggest fear. The thought of public speaking turns my stomach into knots. 🤣
 
 ### Connect with me:
